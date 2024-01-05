@@ -17,7 +17,7 @@ from homeassistant.const import (
 
 _LOGGER = logging.getLogger(__name__)
 
-DOMAIN="maika"
+DOMAIN="en.aika168.com"
 SIGNAL_STATE_UPDATED = f"{DOMAIN}.updated"
 
 CONFIG_SCHEMA = vol.Schema(
