@@ -3,7 +3,7 @@
     "name": "AIKA168 GPS trackers",
     "version": "0.1",
     "documentation": "",
-    "issue_tracker": "",
+    "issue_tracker": "https://github.com/chrisnasulea/maika_hacs/issues",
     "requirements": ["obdtracker==0.2.5"],
     "dependencies": [],
     "codeowners": ["nyxnyx"]
