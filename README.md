@@ -1,4 +1,6 @@
 # What it is for?
+Most of this code was originally written by nyxnyx. I've just put it into a structure that allows it to be installed more easily into HACS.
+
 This is custom_component for AIKA / other GPS OBD2 Tracker for cars. 
 Just search Alliexpres / Whish / Gearbest / ... for GPS OBD2 Tracker. This is for all GPS OBD2 trackers
 that are using AIKA mobile app. If you have trouble - let me know.
