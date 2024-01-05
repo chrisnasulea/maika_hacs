@@ -1,7 +1,9 @@
 {
     "domain": "maika",
-    "name": "Integrates some GPS OBD2 trackers compatible with AIKA mobile app",
+    "name": "AIKA168 GPS trackers",
+    "version": "0.1",
     "documentation": "",
+    "issue_tracker": "",
     "requirements": ["obdtracker==0.2.5"],
     "dependencies": [],
     "codeowners": ["nyxnyx"]
