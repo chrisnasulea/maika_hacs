@@ -16,7 +16,7 @@ git clone git@github.com:nyxnyx/maika.git
 maika:
   username:   !secret aika_username
   password:   !secret aika_password
-  address:     !secret aika_server
+  address:    !secret aika_server
 ```
 where:
 1. username: your device serial number
